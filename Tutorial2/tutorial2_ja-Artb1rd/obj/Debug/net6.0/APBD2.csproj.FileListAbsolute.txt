@@ -1,0 +1,17 @@
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.csproj.AssemblyReference.cache
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.AssemblyInfoInputs.cache
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.AssemblyInfo.cs
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.csproj.CoreCompileInputs.cache
+C:\APBD\tutorial2_ja-Artb1rd\bin\Debug\net6.0\APBD2.exe
+C:\APBD\tutorial2_ja-Artb1rd\bin\Debug\net6.0\APBD2.deps.json
+C:\APBD\tutorial2_ja-Artb1rd\bin\Debug\net6.0\APBD2.runtimeconfig.json
+C:\APBD\tutorial2_ja-Artb1rd\bin\Debug\net6.0\APBD2.dll
+C:\APBD\tutorial2_ja-Artb1rd\bin\Debug\net6.0\APBD2.pdb
+C:\APBD\tutorial2_ja-Artb1rd\bin\Debug\net6.0\CsvHelper.dll
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.csproj.CopyComplete
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.dll
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\refint\APBD2.dll
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.pdb
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\APBD2.genruntimeconfig.cache
+C:\APBD\tutorial2_ja-Artb1rd\obj\Debug\net6.0\ref\APBD2.dll

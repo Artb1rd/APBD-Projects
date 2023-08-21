@@ -1,0 +1,3406 @@
+{
+  "CreatedAt": "2023-03-18T18:34:56.5134033+01:00",
+  "Author": "s25012",
+  "Students": [
+    {
+      "FirstName": "Paweł",
+      "LastName": "Nowak1",
+      "IdStudent": "s459",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 4 sem",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka doktoranckie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "1@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kaja",
+      "LastName": "Jankowski29",
+      "IdStudent": "s4816",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "29@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Justyna",
+      "LastName": "Kowalski30",
+      "IdStudent": "s4749",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "30@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Nowak31",
+      "IdStudent": "s4432",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "31@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kamil",
+      "LastName": "Brzęczyszczykiewicz32",
+      "IdStudent": "s4757",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "32@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marta",
+      "LastName": "Maciejewski33",
+      "IdStudent": "s4655",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "33@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Szymon",
+      "LastName": "Jankowski34",
+      "IdStudent": "s4398",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "34@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Zbigniew",
+      "LastName": "Kowalski35",
+      "IdStudent": "s4450",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": ""
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "35@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Karolina",
+      "LastName": "Nowak36",
+      "IdStudent": "s4455",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": ""
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "36@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Joanna",
+      "LastName": "Brzęczyszczykiewicz37",
+      "IdStudent": "s4799",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "37@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Irena",
+      "LastName": "Maciejewski38",
+      "IdStudent": "s4626",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "38@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adam",
+      "LastName": "Jankowski39",
+      "IdStudent": "s4446",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "39@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kacper",
+      "LastName": "Kowalski40",
+      "IdStudent": "s4396",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "40@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Nowak41",
+      "IdStudent": "s4902",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "41@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Aleksandra",
+      "LastName": "",
+      "IdStudent": "s4434",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "42@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Aleksandra",
+      "LastName": "Brzęczyszczykiewicz42",
+      "IdStudent": "s4434",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów zaoczne",
+          "Mode": "Zaoczne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów zaoczne 6 sem.",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "42@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Katarzyna",
+      "LastName": "Maciejewski43",
+      "IdStudent": "s4517",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "43@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Grzegorz",
+      "LastName": "Jankowski44",
+      "IdStudent": "s4705",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "44@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adrian",
+      "LastName": "Kowalski45",
+      "IdStudent": "s4661",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "45@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jan",
+      "LastName": "Nowak46",
+      "IdStudent": "s4842",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów zaoczne 6 sem.",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "46@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Brzęczyszczykiewicz47",
+      "IdStudent": "s4709",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "47@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Iga",
+      "LastName": "Maciejewski48",
+      "IdStudent": "s4792",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "48@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Jankowski49",
+      "IdStudent": "s4789",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "49@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Maria",
+      "LastName": "Kowalski50",
+      "IdStudent": "s4708",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "50@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Artur",
+      "LastName": "Nowak51",
+      "IdStudent": "s4404",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "51@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Sabina",
+      "LastName": "Brzęczyszczykiewicz52",
+      "IdStudent": "s4513",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "52@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Łukasz",
+      "LastName": "Maciejewski53",
+      "IdStudent": "s4442",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "53@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marcin",
+      "LastName": "Jankowski54",
+      "IdStudent": "s4732",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "54@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Rafał",
+      "LastName": "Kowalski55",
+      "IdStudent": "s4506",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "55@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jan",
+      "LastName": "Nowak56",
+      "IdStudent": "s4649",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "56@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Brzęczyszczykiewicz57",
+      "IdStudent": "s4755",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "57@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Julia",
+      "LastName": "Maciejewski58",
+      "IdStudent": "s4890",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "58@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Karol",
+      "LastName": "Jankowski59",
+      "IdStudent": "s4594",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "59@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Katarzyna",
+      "LastName": "Nowak61",
+      "IdStudent": "s4925",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "61@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marzena",
+      "LastName": "Brzęczyszczykiewicz62",
+      "IdStudent": "s4748",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "62@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Filip",
+      "LastName": "Maciejewski63",
+      "IdStudent": "s4720",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "63@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Karolina",
+      "LastName": "Jankowski64",
+      "IdStudent": "s4423",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "64@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Mateusz",
+      "LastName": "Kowalski65",
+      "IdStudent": "s4299",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "65@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Magdalena",
+      "LastName": "Nowak66",
+      "IdStudent": "s4629",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "66@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Igor",
+      "LastName": "Brzęczyszczykiewicz67",
+      "IdStudent": "s4889",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "67@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Bogumiła",
+      "LastName": "Maciejewski68",
+      "IdStudent": "s4831",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "68@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Jankowski69",
+      "IdStudent": "s4478",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "69@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marta",
+      "LastName": "Kowalski70",
+      "IdStudent": "s4718",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "70@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kamil",
+      "LastName": "Nowak71",
+      "IdStudent": "s4741",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "71@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Beata",
+      "LastName": "Brzęczyszczykiewicz72",
+      "IdStudent": "s4444",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "72@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kacper",
+      "LastName": "Maciejewski73",
+      "IdStudent": "s4552",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "73@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Gustaw",
+      "LastName": "Jankowski74",
+      "IdStudent": "s4462",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "74@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Arkadiusz",
+      "LastName": "Kowalski75",
+      "IdStudent": "s4414",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "75@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Sonia",
+      "LastName": "Nowak76",
+      "IdStudent": "s4508",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "76@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Sandra",
+      "LastName": "Brzęczyszczykiewicz77",
+      "IdStudent": "s4800",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "77@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Małgorzata",
+      "LastName": "Maciejewski78",
+      "IdStudent": "s4429",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "78@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kiyomi",
+      "LastName": "Jankowski79",
+      "IdStudent": "s4927",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "79@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Konrad",
+      "LastName": "Kowalski80",
+      "IdStudent": "s4502",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "80@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomasz",
+      "LastName": "Nowak81",
+      "IdStudent": "s4744",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "81@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Maciej",
+      "LastName": "Brzęczyszczykiewicz82",
+      "IdStudent": "s4477",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "82@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Katarzyna",
+      "LastName": "Maciejewski83",
+      "IdStudent": "s4736",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "83@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Klaudia",
+      "LastName": "Jankowski84",
+      "IdStudent": "s4849",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "84@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Kowalski85",
+      "IdStudent": "s4819",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "85@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Sebastian",
+      "LastName": "Nowak86",
+      "IdStudent": "s4445",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "86@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kamil",
+      "LastName": "Brzęczyszczykiewicz87",
+      "IdStudent": "s4707",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "87@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jagna",
+      "LastName": "Maciejewski88",
+      "IdStudent": "s4764",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "88@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Izabela",
+      "LastName": "Jankowski89",
+      "IdStudent": "s4722",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "89@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Mateusz",
+      "LastName": "Kowalski90",
+      "IdStudent": "s4452",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "90@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Daria",
+      "LastName": "Nowak91",
+      "IdStudent": "s4545",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "91@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Agnieszka",
+      "LastName": "Brzęczyszczykiewicz92",
+      "IdStudent": "s4771",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "92@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Iwona",
+      "LastName": "Maciejewski93",
+      "IdStudent": "s4706",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "93@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Aleksandra",
+      "LastName": "Jankowski94",
+      "IdStudent": "s4772",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "94@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomasz",
+      "LastName": "Kowalski95",
+      "IdStudent": "s3374",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "95@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jolanta",
+      "LastName": "Nowak96",
+      "IdStudent": "s4756",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów uzupełniające magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "96@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Aleksandra",
+      "LastName": "Brzęczyszczykiewicz97",
+      "IdStudent": "s4457",
+      "Studies": [
+        {
+          "Faculty": "Sztuka Nowych Mediów dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "97@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Brzęczyszczykiewicz252",
+      "IdStudent": "s4412",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "252@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Dariusz",
+      "LastName": "Maciejewski253",
+      "IdStudent": "s4525",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "253@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kamil",
+      "LastName": "Jankowski254",
+      "IdStudent": "s4836",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "254@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Łukasz",
+      "LastName": "Kowalski255",
+      "IdStudent": "s4788",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "255@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomasz",
+      "LastName": "Nowak256",
+      "IdStudent": "s4474",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "256@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Brzęczyszczykiewicz257",
+      "IdStudent": "s4454",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "257@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Patryk",
+      "LastName": "Maciejewski258",
+      "IdStudent": "s4443",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "258@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Bhagirath",
+      "LastName": "Jankowski259",
+      "IdStudent": "s4851",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "259@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Kowalski260",
+      "IdStudent": "s4579",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "260@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marek",
+      "LastName": "Nowak261",
+      "IdStudent": "s4461",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "261@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Przemysław",
+      "LastName": "Brzęczyszczykiewicz262",
+      "IdStudent": "s4747",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "262@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marcin",
+      "LastName": "Maciejewski263",
+      "IdStudent": "s4762",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "263@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Zuzanna",
+      "LastName": "Jankowski264",
+      "IdStudent": "s4413",
+      "Studies": [
+        {
+          "Faculty": "Zarządzanie informacją dzienne (kierunek Zarządzanie)",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "264@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Kowalski265",
+      "IdStudent": "s4490",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "265@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Wojciech",
+      "LastName": "Nowak266",
+      "IdStudent": "s4554",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "266@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Enkh-Amgalan",
+      "LastName": "Brzęczyszczykiewicz267",
+      "IdStudent": "s4340",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "267@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adrian",
+      "LastName": "Maciejewski268",
+      "IdStudent": "s4586",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "268@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Bartosz",
+      "LastName": "Jankowski269",
+      "IdStudent": "s4798",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "269@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Kowalski270",
+      "IdStudent": "s4711",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "270@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Sebastian",
+      "LastName": "Nowak271",
+      "IdStudent": "s4056",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "271@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Aleksandra",
+      "LastName": "Brzęczyszczykiewicz272",
+      "IdStudent": "s4549",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "272@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Maciejewski273",
+      "IdStudent": "s4618",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "273@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adrian",
+      "LastName": "Jankowski274",
+      "IdStudent": "s4530",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "274@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Andrzej",
+      "LastName": "Kowalski275",
+      "IdStudent": "s4607",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "275@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Wojciech",
+      "LastName": "Nowak276",
+      "IdStudent": "s4459",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "276@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Monika",
+      "LastName": "Brzęczyszczykiewicz277",
+      "IdStudent": "s4501",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "277@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jan",
+      "LastName": "Maciejewski278",
+      "IdStudent": "s4858",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "278@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Jankowski279",
+      "IdStudent": "s4578",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "279@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Bartosz",
+      "LastName": "Kowalski280",
+      "IdStudent": "s4555",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "280@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Agata",
+      "LastName": "Nowak281",
+      "IdStudent": "s4589",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "281@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Matthew",
+      "LastName": "Brzęczyszczykiewicz282",
+      "IdStudent": "s4945",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "282@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Maciejewski283",
+      "IdStudent": "s4556",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie uzupełniające zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "283@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Grzegorz",
+      "LastName": "Jankowski284",
+      "IdStudent": "s4504",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "284@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Sebastian",
+      "LastName": "Kowalski285",
+      "IdStudent": "s4505",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "285@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Filip",
+      "LastName": "Nowak286",
+      "IdStudent": "s4105",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        },
+        {
+          "Faculty": "Informatyka jednolite magisterskie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "286@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Brzęczyszczykiewicz287",
+      "IdStudent": "s4487",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "287@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Artur",
+      "LastName": "Maciejewski288",
+      "IdStudent": "s4498",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "288@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Jankowski289",
+      "IdStudent": "s4471",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        },
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "289@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Małgorzata",
+      "LastName": "Kowalski290",
+      "IdStudent": "s4855",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "290@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Arkadiusz",
+      "LastName": "Nowak291",
+      "IdStudent": "s4752",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "291@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Brzęczyszczykiewicz292",
+      "IdStudent": "s4770",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "292@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adam",
+      "LastName": "Maciejewski293",
+      "IdStudent": "s4476",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "293@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomasz",
+      "LastName": "Jankowski294",
+      "IdStudent": "s4724",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "294@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Kowalski295",
+      "IdStudent": "s4754",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "295@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Nowak296",
+      "IdStudent": "s4769",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "296@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Maciej",
+      "LastName": "Brzęczyszczykiewicz297",
+      "IdStudent": "s4499",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "297@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Maciejewski298",
+      "IdStudent": "s4733",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "298@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kasper",
+      "LastName": "Jankowski299",
+      "IdStudent": "s4584",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "299@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Krzysztof",
+      "LastName": "Kowalski300",
+      "IdStudent": "s4514",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie uzupełniające zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "300@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Nowak301",
+      "IdStudent": "s4448",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "301@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Brzęczyszczykiewicz302",
+      "IdStudent": "s4664",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "302@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Katarzyna",
+      "LastName": "Maciejewski303",
+      "IdStudent": "s4935",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "303@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Konrad",
+      "LastName": "Jankowski304",
+      "IdStudent": "s4485",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "304@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Kowalski305",
+      "IdStudent": "s4456",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "305@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jan",
+      "LastName": "Nowak306",
+      "IdStudent": "s4107",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        },
+        {
+          "Faculty": "Informatyka jednolite magisterskie",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka jednolite magisterskie po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "306@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Radosław",
+      "LastName": "Brzęczyszczykiewicz307",
+      "IdStudent": "s4482",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "307@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kacper",
+      "LastName": "Maciejewski308",
+      "IdStudent": "s4817",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "308@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomasz",
+      "LastName": "Jankowski309",
+      "IdStudent": "s4765",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "309@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Lech",
+      "LastName": "Kowalski310",
+      "IdStudent": "s4387",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "310@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Błażej",
+      "LastName": "Nowak311",
+      "IdStudent": "s4509",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie uzupełniające zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "311@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Karol",
+      "LastName": "Brzęczyszczykiewicz312",
+      "IdStudent": "s4609",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "312@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Maciejewski313",
+      "IdStudent": "s4481",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "313@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Wojciech",
+      "LastName": "Jankowski314",
+      "IdStudent": "s4512",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "314@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Maciej",
+      "LastName": "Kowalski315",
+      "IdStudent": "s4782",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka Społeczna",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "315@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Nowak316",
+      "IdStudent": "s4492",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "316@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Brzęczyszczykiewicz317",
+      "IdStudent": "s4531",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "317@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marcin",
+      "LastName": "Maciejewski318",
+      "IdStudent": "s4406",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "318@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Krzysztof",
+      "LastName": "Jankowski319",
+      "IdStudent": "s4394",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "319@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Kowalski320",
+      "IdStudent": "s4627",
+      "Studies": [
+        {
+          "Faculty": "Informatyka internetowe magisterskie",
+          "Mode": "Internetowe"
+        },
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "320@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Krzysztof",
+      "LastName": "Nowak321",
+      "IdStudent": "s4830",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "321@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adrian",
+      "LastName": "Brzęczyszczykiewicz322",
+      "IdStudent": "s4486",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "322@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Mariusz",
+      "LastName": "Maciejewski323",
+      "IdStudent": "s4447",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "323@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Bartosz",
+      "LastName": "Jankowski324",
+      "IdStudent": "s4580",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "324@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Kowalski325",
+      "IdStudent": "s4284",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Sztuka Nowych Mediów zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "325@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Nowak326",
+      "IdStudent": "s4440",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "326@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Aleksander",
+      "LastName": "Brzęczyszczykiewicz327",
+      "IdStudent": "s4410",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "327@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Andrzej",
+      "LastName": "Maciejewski328",
+      "IdStudent": "s4615",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "328@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Jankowski329",
+      "IdStudent": "s4796",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "329@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Kowalski330",
+      "IdStudent": "s4458",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "330@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Nakul",
+      "LastName": "Brzęczyszczykiewicz332",
+      "IdStudent": "s4942",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "332@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomoto",
+      "LastName": "Maciejewski333",
+      "IdStudent": "s4614",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "333@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Krzysztof",
+      "LastName": "Jankowski334",
+      "IdStudent": "s4822",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "334@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adam",
+      "LastName": "Kowalski335",
+      "IdStudent": "s4433",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "335@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jan",
+      "LastName": "Nowak336",
+      "IdStudent": "s4557",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "336@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Gabriel",
+      "LastName": "Brzęczyszczykiewicz337",
+      "IdStudent": "s4599",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "337@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Maciejewski338",
+      "IdStudent": "s4419",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka doktoranckie",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "338@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Jankowski339",
+      "IdStudent": "s4828",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "339@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Kacper",
+      "LastName": "Kowalski340",
+      "IdStudent": "s4460",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "340@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adrian",
+      "LastName": "Nowak341",
+      "IdStudent": "s4058",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka wieczorowe",
+          "Mode": "Wieczorowe"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "341@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Brzęczyszczykiewicz342",
+      "IdStudent": "s4524",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "342@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Katarzyna",
+      "LastName": "Maciejewski343",
+      "IdStudent": "s4588",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "343@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Jankowski344",
+      "IdStudent": "s4743",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "344@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Karol",
+      "LastName": "Kowalski345",
+      "IdStudent": "s4721",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "345@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Radosław",
+      "LastName": "Nowak346",
+      "IdStudent": "s4544",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "346@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Marco",
+      "LastName": "Brzęczyszczykiewicz347",
+      "IdStudent": "s4426",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "347@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jagoda",
+      "LastName": "Maciejewski348",
+      "IdStudent": "s4532",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "348@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomasz",
+      "LastName": "Jankowski349",
+      "IdStudent": "s4480",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "349@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Przemysław",
+      "LastName": "Kowalski350",
+      "IdStudent": "s4441",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "350@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Nowak351",
+      "IdStudent": "s4523",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "351@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Bartosz",
+      "LastName": "Brzęczyszczykiewicz352",
+      "IdStudent": "s4766",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "352@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Achut",
+      "LastName": "Maciejewski353",
+      "IdStudent": "s4941",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "353@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Aleksander",
+      "LastName": "Jankowski354",
+      "IdStudent": "s4647",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "354@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jan",
+      "LastName": "Kowalski355",
+      "IdStudent": "s4500",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "355@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Yuriy",
+      "LastName": "Nowak356",
+      "IdStudent": "s4422",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "356@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Brzęczyszczykiewicz357",
+      "IdStudent": "s4660",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "357@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Maciejewski358",
+      "IdStudent": "s4521",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "358@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Jankowski359",
+      "IdStudent": "s4585",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "359@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Mikołaj",
+      "LastName": "Kowalski360",
+      "IdStudent": "s3081",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka jednolite magisterskie",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka jednolite magisterskie po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "360@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Dariusz",
+      "LastName": "Nowak361",
+      "IdStudent": "s4710",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "361@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Anna",
+      "LastName": "Brzęczyszczykiewicz362",
+      "IdStudent": "s4385",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "362@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Piotr",
+      "LastName": "Maciejewski363",
+      "IdStudent": "s4529",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "363@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adrian",
+      "LastName": "Brzęczyszczykiewicz367",
+      "IdStudent": "s4384",
+      "Studies": [
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        },
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "367@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Jankowski364",
+      "IdStudent": "s4522",
+      "Studies": [
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        },
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "364@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Dawid",
+      "LastName": "Kowalski365",
+      "IdStudent": "s4827",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "365@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Karol",
+      "LastName": "Nowak366",
+      "IdStudent": "s4518",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "366@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Łukasz",
+      "LastName": "Maciejewski368",
+      "IdStudent": "s4496",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka Społeczna",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "368@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adam",
+      "LastName": "Jankowski369",
+      "IdStudent": "s4750",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        },
+        {
+          "Faculty": "Informatyka internetowe",
+          "Mode": "Internetowe"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "369@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Arkadiusz",
+      "LastName": "Kowalski370",
+      "IdStudent": "s4111",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "370@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Nowak371",
+      "IdStudent": "s4484",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "371@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Michał",
+      "LastName": "Brzęczyszczykiewicz372",
+      "IdStudent": "s4483",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "372@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Tomasz",
+      "LastName": "Maciejewski373",
+      "IdStudent": "s4751",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "MBA dla branży IT",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "373@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Radosław",
+      "LastName": "Jankowski374",
+      "IdStudent": "s4528",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "374@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Paweł",
+      "LastName": "Kowalski375",
+      "IdStudent": "s4533",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "375@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Przemysław",
+      "LastName": "Nowak376",
+      "IdStudent": "s4814",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka zaoczne",
+          "Mode": "Zaoczne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "376@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adam",
+      "LastName": "Brzęczyszczykiewicz377",
+      "IdStudent": "s4753",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "377@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Dawid",
+      "LastName": "Maciejewski378",
+      "IdStudent": "s4520",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "378@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Adrian",
+      "LastName": "Jankowski379",
+      "IdStudent": "s4837",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "379@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Sławomir",
+      "LastName": "Kowalski380",
+      "IdStudent": "s4611",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "380@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Rafał",
+      "LastName": "Nowak381",
+      "IdStudent": "s4616",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne",
+          "Mode": "Dzienne"
+        },
+        {
+          "Faculty": "Informatyka magisterskie 3 sem",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "381@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    },
+    {
+      "FirstName": "Agnieszka",
+      "LastName": "Brzęczyszczykiewicz382",
+      "IdStudent": "s4603",
+      "Studies": [
+        {
+          "Faculty": "Informatyka dzienne po angielsku",
+          "Mode": "Dzienne"
+        }
+      ],
+      "BirthDay": "2000-02-12T00:00:00",
+      "Mail": "382@pjwstk.edu.pl",
+      "MotherName": "Alina",
+      "FatherName": "Adam"
+    }
+  ]
+}

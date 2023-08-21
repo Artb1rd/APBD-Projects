@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FArqag8Dihs5mNCu6E47hpBNvplIzT5jKpAfDmsNAiWDOK2gjnEj8QQ6smy3WG4z+IwaglNG4DyGIx8wBNpVDA==",
+  "success": true,
+  "projectFilePath": "C:\\APBD\\tutorial2_ja-Artb1rd\\APBD2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
