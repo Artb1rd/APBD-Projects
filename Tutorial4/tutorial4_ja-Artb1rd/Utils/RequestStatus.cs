@@ -1,0 +1,11 @@
+﻿namespace Zadanie4.Utils;
+
+public enum RequestStatus
+{
+    SUCCESS,
+    ERROR_ORDER_TYPE_NOT_EXISTS,
+    ERROR_PARAMETER_IS_EMPTY,
+    ERROR_ID_CANNOT_BE_CHANGED,
+    ERROR_OBJECT_ID_ALREADY_EXISTS,
+    ERROR_OBJECT_NOT_EXISTS
+}
