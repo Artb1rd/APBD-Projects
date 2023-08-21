@@ -1,0 +1,32 @@
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\ref\LinqTutorials.dll
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csprojAssemblyReference.cache
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+C:\Users\Piotr\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Materiały\Przedmioty\2021 letni\APBD\Polskie\Ćwiczenia 6\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.AssemblyReference.cache
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\refint\LinqTutorials.dll
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
+C:\APBD\tutorial6_ja-Artb1rd\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
